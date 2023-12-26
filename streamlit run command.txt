@@ -1,0 +1,9 @@
+streamlit run "C:\Users\siddhardhan\Desktop\Multiple Disease Prediction System\multiple disease pred.py"
+
+streamlit run "D:\A TechieYan\Projects\ML\Multiple Disease Prediction System\multiple_disease_pred.py"
+
+pip install streamlit
+pip install pickle5
+pip install streamlit-option-menu
+
+
